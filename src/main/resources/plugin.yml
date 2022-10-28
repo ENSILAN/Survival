@@ -1,0 +1,7 @@
+name: Survival
+version: 1.0
+author: NathanFallet
+main: me.nathanfallet.ensilan.survival.Survival
+depend: [Core]
+api-version: 1.19
+  
